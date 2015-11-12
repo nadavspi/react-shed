@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "react-sound": "0.3.0",
+    "soundmanager2": "2.97.20150601"
   }
 }
