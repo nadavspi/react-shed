@@ -1,7 +1,7 @@
 {
-  "name": "react-transform-boilerplate",
-  "version": "1.0.0",
-  "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+  "name": "react-shed",
+  "version": "0.1.0",
+  "description": "React app for shedding tunes",
   "scripts": {
     "clean": "rimraf dist",
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-transform-boilerplate.git"
+    "url": "https://github.com/nadavspi/react-shed.git"
   },
   "keywords": [
     "react",
@@ -26,12 +26,12 @@
     "babel",
     "react-transform"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
-  "license": "CC0-1.0",
+  "author": "Nadav Spiegelman <me@nadav.name> (http://nadav.is)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaearon/react-transform-boilerplate/issues"
+    "url": "https://github.com/nadavspi/react-shed/issues"
   },
-  "homepage": "https://github.com/gaearon/react-transform-boilerplate",
+  "homepage": "https://github.com/nadavspi/react-shed",
   "devDependencies": {
     "babel-core": "^5.4.7",
     "babel-eslint": "^3.1.9",
